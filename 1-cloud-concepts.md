@@ -32,3 +32,13 @@ Fault tolerance happens without any interaction from you, and it’s designed to
 ```
 
 #### The cloud pyramid
+
+
+### Types of Cloud Computing
+```
+IaaS- servers, storage, and networking ( we manage application,data,runime,middleware,O/S)
+PaaS-servers, storage, networking, management tools ( we manage application,data)
+SaaS- a complete application like Office 365
+Serverless- no need of server; there is a single function that is hosted,
+deployed and managed on its own
+```
